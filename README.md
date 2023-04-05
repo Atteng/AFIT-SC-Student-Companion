@@ -28,7 +28,7 @@ Campus Navigation helps you get around campus by providing you with all the hots
 ## Contribution
 I'll love to recieve your contributions and its very easy to contribute to AFIT SC.
 Just Follow these steps:
-1. Get the prerequisites ready. (Learn Kotlin and set up Android Studio.)
+1. Get the prerequisites ready. (Learn Flutter and set up Android Studio/Visual Studio.)
 2. Fork this project into your own repository.
 3. Make your changes to that repository, and create a pull request.
 
