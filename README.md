@@ -1,6 +1,6 @@
 # AFIT-SC-Student-Companion
 
-AFIT SC, The Official Companion app that aims to spice up the experience of individuals within the AFIT Community. The app contains several useful modules that enables students to stay up-to-date with the institute activities, explore fascinating spots in and around campus, maintain academic schedules and more.
+AFIT SC, The Official Companion app that aims to spice up the experience of individuals within the AFIT Community. The app contains several useful modules that brings campus to your fingertips and enables students to connect with the AFIT Community: Stay up-to-date with the institute activities, classes and assignments, explore fascinating spots in and around campus, maintain academic schedules, make friends and more.
 
 While aiming to liven up student experience on campus, this project is also targeted at all the emerging developers, designers, creative directors and creators of AFIT, to encourage them to dream big and work hard.
 
