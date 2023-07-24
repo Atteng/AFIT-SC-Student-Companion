@@ -35,4 +35,4 @@ Just Follow these steps:
 That's all there is to be a contributor to AFIT SC. I am looking forward to your inputs, corrections, suggestions, remarks towards maintaining this project.
 
 ## Project Maintainer(s)
-This project is founded and actively maintained by [Simeoon Atteng](https://github.com/Atteng). For queries, please send an email to awajiiyaham@gmail.com. I will certainly reply you as soon as i can.
+This project is founded and actively maintained by [Simeon Atteng](https://github.com/Atteng). For queries, please send an email to awajiiyaham@gmail.com. I will certainly reply you as soon as i can.
